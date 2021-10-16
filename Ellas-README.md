@@ -6,5 +6,5 @@ This project is a refactor of the customers original site to upgrade for Accessi
 
 
 ## Images
-<img src="Develop/assets/images/Horiseon.png" alt="main page>
+<img src="https://github.com/EllaCodes2021/Ella-Challenge-01/blob/main/Develop/assets/images/Horiseon.png" alt="main page>
 
